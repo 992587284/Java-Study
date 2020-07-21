@@ -31,7 +31,7 @@ public class T {
         int n = i++ + i;
         System.out.println(n);
 
-
+        System.out.println("测试github");
     }
 
     public void add(int i) {
